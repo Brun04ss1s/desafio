@@ -1,0 +1,34 @@
+b{
+    font-size: x-large;
+}
+.butaoA{
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: solid black 2px;
+    background-color: green;
+}
+.butaoV{
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: solid black 2px;
+    background-color: red;
+}
+.butao{
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: solid black 2px;
+    background-color: rgb(25, 76, 134);
+}
+.container{
+    margin-top: 20px;
+    align-content: center;
+}
+.b{
+    margin-top: 50px;
+}
